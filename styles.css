@@ -1,0 +1,27 @@
+card {
+     box-sizing: border-box;
+}
+
+body {
+     width: 320px;
+     border: 1px solid grey;
+     box-shadow: 5px 5px 0px 0px rgba(0,0,255,.2);
+     padding: 0px 11px 10px 9px;
+}
+
+img {
+     width: 250;
+     border: 1px solid grey;
+}
+
+ul {
+     list-style-type: none;
+     font-family: Verdana, sans serif;
+}
+
+.info {
+     margin: 10px 0px 0px 0px;
+     border: 1px solid grey;
+     border-radius: 15px;
+     padding: 0px 10px 0px;
+}
